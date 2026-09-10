@@ -52,7 +52,7 @@ Focused on backend engineering, fluent across the full stack and creative work.
         <b>Full-stack web platform</b>
       </a><br>
       <sub>Hexagonal backend, multi-role frontend, multimedia management and deployment.</sub><br><br><br>
-      <a href="assets/cover_video_games.png">
+      <a href="assets/image_engineering.png">
         <img src="assets/image_engineering.png" width="260" margin-top="10" alt="Full-stack web platform"><br>
       </a><br>
       <a href="docs/carlesRigatAlmansa_memoriaTFGInfo_ecosistemaDigital.pdf">
