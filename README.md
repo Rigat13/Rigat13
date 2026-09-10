@@ -71,8 +71,8 @@ Focused on backend engineering, fluent across the full stack and creative work.
         <b>Characters and physics</b>
       </a><br>
       <sub>Academic research, project planning, cloth rig and physics simulation, 2D and 3D art, Unity mobile app.</sub><br><br><br>
-      <a href="assets/cover_video_games.png">
-        <img src="assets/cover_video_games.png" width="260" margin-top="10" alt="Characters and physics"><br>
+      <a href="assets/image_video_games.png">
+        <img src="assets/image_video_games.png" width="260" margin-top="10" alt="Characters and physics"><br>
       </a><br>
       <a href="docs/crigat_memoriafinalTFG_GDPV_gegantsMataro.pdf">
         <b>Paper</b>
