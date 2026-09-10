@@ -28,13 +28,13 @@ Focused on backend engineering, fluent across the full stack and creative work.
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="docs/crigat_memoriafinalTFG_GDPV_gegantsMataro.pdf">
+      <a href="https://www.storymakers.es/">
         <img src="assets/cover_storymakers.png" width="180" alt="Storymakers"><br>
         <b>Storymakers</b>
       </a><br>
       <sub>Production web platform · CTO &amp; Founding Engineer, team management and system maintenance.</sub><br><br><br>
-      <a href="docs/crigat_memoriafinalTFG_GDPV_gegantsMataro.pdf">
-        <img src="assets/image_storymakers.png" width="260" margin-top="10" alt="Storymakers"><br>
+      <a href="https://www.storymakers.es/">
+        <img src="https://www.storymakers.es/" width="260" margin-top="10" alt="Storymakers"><br>
       </a><br>
       <a >
         <b></b>
